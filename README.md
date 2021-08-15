@@ -1,5 +1,5 @@
                                                                                                            
-<h1 align="center">Hello world 🙋🏻, I'm Mylene</h1>                                                                                                         
+<h1 align="center">Hello world, I'm Mylene</h1>                                                                                                         
 <h3 align="center">A frontend developer from France living in Japan</h3>
 <img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
 
