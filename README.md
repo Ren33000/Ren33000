@@ -11,8 +11,11 @@
 - 👩🏻‍🎓 I have studied programming at [Le Wagon Tokyo](https://www.lewagon.com/tokyo/web-development-course/part-time)
 
 - 🌱 I’m currently learning **React, Vue, Gatsby**
+- 👯 I’m looking to collaborate on **Tourism, travel or Japan-related projects**
 
-- ⚡ Fun fact: **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵**
+- 👘 When not coding **I travel, dance or wear kimono**
+
+- ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵**
 
 
 
