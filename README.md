@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mylene</h1>
+                                                                                                           
+<h1 align="center">Hello world 🙋🏻, I'm Mylene</h1>                                                                                                         
 <h3 align="center">A frontend developer from France living in Japan</h3>
+<img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
+
 
 - 🔭 I’m currently working on [Midorin](https://midorin.herokuapp.com/)
+
+- 👩🏻‍🎓 I have studied programming at **Le Wagon Tokyo**
 
 - 🌱 I’m currently learning **React, Vue, Gatsby**
 
 - ⚡ Fun fact **I have worked in 5 countries so far**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
