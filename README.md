@@ -1,6 +1,8 @@
                                                                                                            
 <h1 align="center">Hello world, I'm Mylene</h1>                                                                                                         
 <h3 align="center">A frontend developer from 🇫🇷 France, living in 🇯🇵 Japan</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ren33000&label=Profile%20views&color=0e75b6&style=flat" alt="ren33000" /> </p>
+
 <img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
 
 
@@ -27,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ren33000&show_icons=true&locale=en" alt="ren33000" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ren33000&" alt="ren33000" /></p>
