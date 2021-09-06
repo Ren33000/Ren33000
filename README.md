@@ -6,16 +6,17 @@
 <img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
 
 
-- 🔭 I’m currently working on [Pack Hallyu](https://packhallyu.com/)
+- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/)
 
 - 👩🏻‍🎓 I have studied programming at [Le Wagon Tokyo](https://www.lewagon.com/tokyo/web-development-course/part-time)
 
 - 🌱 I’m currently learning **React, Wordpress, Gatsby**
-- 👯 I’m looking to collaborate on **Tourism, travel or Japan-related projects**
+- 👯 I’m looking to collaborate on **Tourism or Japan / Asia-related projects**
 
-- 👘 When not coding **I travel, dance or wear kimono**
+- 👘  When not coding **I travel, dance or wear kimono**
+- 🙋 Ask me about **Ruby, Rails, traveling in Japan or diy cosmetics**!
 
-- ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵**
+- ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵** and visited much more
 
 
 
