@@ -17,7 +17,7 @@
 - 🙋 Ask me about **Ruby, Rails, traveling in Japan or diy cosmetics**!
 
 - ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵** and visited much more
-
+- 📫  Reach me at **ren33000@yahoo.com**
 
 
 
