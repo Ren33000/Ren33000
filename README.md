@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
 
 
-- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/)
+- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Cap Corée](https://www.capcoree.fr/)
 
 - 👩🏻‍🎓 I have studied programming at [Le Wagon Tokyo](https://www.lewagon.com/tokyo/web-development-course/part-time)
 
