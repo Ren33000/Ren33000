@@ -15,7 +15,6 @@
 - 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) and the school's [Studio](https://scratch.mit.edu/studios/29995906/)
 
 - 👘  When not coding **I travel, dance or wear kimono**
-- 🙋 Ask me about **Ruby, web-design, traveling in Japan or diy cosmetics**!
 
 - ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵** and visited much more
 
