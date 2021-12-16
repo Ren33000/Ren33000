@@ -1,6 +1,6 @@
                                                                                                            
 <h1 align="center">Hello world, I'm Mylene</h1>                                                                                                         
-<h3 align="center">A frontend developer from France, working in Japan</h3>
+<h3 align="center">A Front-End developer from France, working in Japan</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ren33000&label=Profile%20views&color=0e75b6&style=flat" alt="ren33000" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React, Wordpress**
 - 👯 I’m looking to collaborate on **Tourism or Japan / Asia-related projects**
-- 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) and the school's [Studio](https://scratch.mit.edu/studios/29995906/)
+- 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) 
 
 - 👘  When not coding **I travel, dance or wear kimono**
 
@@ -35,6 +35,5 @@
 <h3 align="center">Tools:</h3>
 <p align="center"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/> </a>  </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a></p> 
   
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ren33000&show_icons=true&locale=en&layout=compact" alt="ren33000" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ren33000&" alt="ren33000" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ren33000&show_icons=true&locale=en&layout=compact" alt="ren33000" /></p>
 
