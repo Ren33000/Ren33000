@@ -13,7 +13,7 @@
 - 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Cap Corée](https://www.capcoree.fr/)
 
 
-- 🌱 I’m currently learning **React, Wordpress**
+- 🌱 I’m currently learning **Vue**
 - 👯 I’m looking to collaborate on **Tourism or Japan / Asia-related projects**
 - 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) 
 
