@@ -10,7 +10,7 @@
 <img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
 
 
-- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Cap Corée](https://www.capcoree.fr/)
+- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Troupe](https://github.com/AidanFournier/troupe)
 
 
 - 🌱 I’m currently learning **Vue**
