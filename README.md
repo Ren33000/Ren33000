@@ -13,7 +13,7 @@
 - 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Troupe](https://github.com/AidanFournier/troupe)
 
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue** and **PHP**
 - 👯 I’m looking to collaborate on **Tourism or Japan / Asia-related projects**
 - 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) 
 
