@@ -1,28 +1,3 @@
-                                                                                                           
-<h1 align="center">Hello world, I'm Mylene</h1>                                                                                                         
-<h3 align="center">From France, working in Japan</h3>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ren33000&label=Profile%20views&color=0e75b6&style=flat" alt="ren33000" /> </p> -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mylenejapan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mylene.japan" height="30" width="40" /></a>
-</p>
-
-<img align='right' src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" width="230">                                                                                                           
-
-
-- 🔭 I’m working right now on [Pack Hallyu](https://packhallyu.com/) and [Troupe](https://github.com/AidanFournier/troupe)
-
-
-- 🌱 I’m currently learning **Vue** and **PHP**
-- 👯 I’m looking to collaborate on **Tourism or Japan / Asia-related projects**
-- 👩‍💻 I used to teach coding to kids, here is my [Scratch account](https://scratch.mit.edu/users/Ren33000/) 
-
-- 👘  When not coding **I travel, dance or wear kimono**
-
-- ⚡ Fun fact **I have lived in 5 countries so far 🇫🇷 🇨🇦 🇨🇳 🇹🇼 🇯🇵** and visited much more
-
-
-
 
 
 <h3 align="center">Front-End:</h3>
